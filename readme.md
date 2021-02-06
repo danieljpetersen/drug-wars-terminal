@@ -2,7 +2,7 @@
 
 This was the first program of substance that I managed to create. Looks like this was made on April 11th, 2009. I like how each drug got its own rng function.
 
-You have 30 days earn 1 million dollars by selling drugs on the streets of New York. Will you reach this pinnacle of success?
+You have 30 days to earn 1 million dollars by selling drugs on the streets of New York. Will you reach this pinnacle of success?
 
 ![Screenshot](screenshot.png)
 
