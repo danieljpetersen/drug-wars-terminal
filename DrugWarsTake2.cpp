@@ -94,7 +94,7 @@ int main()
 		//	cin >> WrongChoice;
 		//	cout << "Invalid choice!"
 		//}
-2		//else
+		//else
 		cin >> Choice;
 
 		switch (Choice)
